@@ -18,8 +18,7 @@ Skills:  REACT / JS / HTML / CSS / Oracle / Postgre / C / C++
 - 😄 Pronouns: him 
 - ⚡ Fun fact: I think I am funny :3
 
-- 
-<p align="center">
+<p align="left">
     <a href="https://github.com/Tuhin-ninja" style="margin: 0 10px;">
         <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github" height="40">
     </a>
