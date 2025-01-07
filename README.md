@@ -16,15 +16,26 @@ Skills:  REACT / JS / HTML / CSS / Oracle / Postgre / C / C++
 - 💬 Ask me about Web-Development 
 - 📫 How to reach me: khalidtuhin3@gmail.com 
 - 😄 Pronouns: him 
-- ⚡ Fun fact: I think I am funny :3 
+- ⚡ Fun fact: I think I am funny :3
 
-
-[<img src='https://img.icons8.com/fluent/48/000000/github.png' alt='github' height='40'>](https://github.com/Tuhin-ninja)  
-[<img src='https://img.icons8.com/fluent/48/000000/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/khalid-hasan-tuhin-401471251/)  
-[<img src='https://img.icons8.com/fluent/48/000000/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/khalid.tuhin.9)  
-[<img src='https://img.icons8.com/fluent/48/000000/instagram-new.png' alt='instagram' height='40'>](https://www.instagram.com/tuhin.khalid/)  
-[<img src='https://img.icons8.com/fluent/48/000000/youtube-play.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/pspicephysics4619)  
-
+- 
+<p align="center">
+    <a href="https://github.com/Tuhin-ninja" style="margin: 0 10px;">
+        <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="github" height="40">
+    </a>
+    <a href="https://www.linkedin.com/in/khalid-hasan-tuhin-401471251/" style="margin: 0 10px;">
+        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="linkedin" height="40">
+    </a>
+    <a href="https://www.facebook.com/khalid.tuhin.9" style="margin: 0 10px;">
+        <img src="https://img.icons8.com/fluent/48/000000/facebook.png" alt="facebook" height="40">
+    </a>
+    <a href="https://www.instagram.com/tuhin.khalid/" style="margin: 0 10px;">
+        <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="instagram" height="40">
+    </a>
+    <a href="https://www.youtube.com/channel/pspicephysics4619" style="margin: 0 10px;">
+        <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png" alt="YouTube" height="40">
+    </a>
+</p>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
