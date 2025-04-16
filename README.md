@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Tuhin
 #### A passionate learner from Bangladesh
-![A passionate learner from Bangladesh]([https://img.freepik.com/free-photo/lifestyle-scene-anime-style-with-person-doing-daily-tasks_23-2151002606.jpg?semt=ais_hybrid&w=740])
+![A passionate learner from Bangladesh](https://img.freepik.com/free-photo/lifestyle-scene-anime-style-with-person-doing-daily-tasks_23-2151002606.jpg?semt=ais_hybrid&w=740)
 
 I am currently a student of Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology (BUET), studying in Level 2, Term 2. As a passionate full-stack developer, I have a strong foundation in designing, developing, and deploying dynamic web applications. My expertise includes both frontend and backend technologies, allowing me to create seamless and efficient user experiences.
 
