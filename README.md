@@ -1,19 +1,18 @@
 ### Hi there 👋, I'm Tuhin
 #### A passionate learner from Bangladesh
-![A passionate learner from Bangladesh](https://img.freepik.com/free-photo/lifestyle-scene-anime-style-with-person-doing-daily-tasks_23-2151002606.jpg?semt=ais_hybrid&w=740)
 
-I am currently a student of Computer Science and Engineering (CSE) at Bangladesh University of Engineering and Technology (BUET), studying in Level 2, Term 2. As a passionate full-stack developer, I have a strong foundation in designing, developing, and deploying dynamic web applications. My expertise includes both frontend and backend technologies, allowing me to create seamless and efficient user experiences.
+I am a Computer Science and Engineering (CSE) student at Bangladesh University of Engineering and Technology (BUET), studying in Level 2, Term 2. As a passionate full-stack developer, I have a strong foundation in designing, developing, and deploying dynamic web applications. My expertise includes both front-end and back-end technologies, allowing me to create seamless and efficient user experiences.
 
 In addition to my web development skills, I am actively exploring the exciting field of Machine Learning (ML). I am eager to delve deeper into this domain, gaining proficiency in algorithms, data analysis, and model building to solve real-world problems.
 
-I strive to bridge the gap between software development and data-driven solutions, aiming to leverage my skills to innovate and contribute to impactful projects in the tech industry.
+I strive to bridge the gap between software development and data-driven solutions, leveraging my skills to innovate and contribute to impactful projects in the tech industry.
 
-Skills:  REACT / JS / HTML / CSS / Oracle / Postgre / C / C++
+Skills:  REACT / JS / HTML / CSS / Oracle / Postgres / C / C++
 
 - 🔭 I’m currently working on BUET 
 - 🌱 I’m currently learning ML and Neural Networks 
 - 👯 I’m looking to collaborate on Machine Learning Projects 
-- 💬 Ask me about Web-Development 
+- 💬 Ask me about Web Development 
 - 📫 How to reach me: khalidtuhin3@gmail.com 
 - 😄 Pronouns: him 
 - ⚡ Fun fact: I think I am funny :3
