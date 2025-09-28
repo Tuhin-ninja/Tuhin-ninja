@@ -6,7 +6,7 @@ As a passionate full-stack developer, I love designing, developing, and deployin
 
 I’m also diving deep into **Machine Learning (ML)** and **Neural Networks**, eager to solve real-world problems with data-driven solutions.  
 
-![Welcome](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Welcome](https://images.pexels.com/photos/416160/pexels-photo-416160.jpeg)
 
 ---
 
