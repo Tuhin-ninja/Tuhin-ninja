@@ -1,12 +1,11 @@
 ## 🙋‍♂️ About Me
 
-I’m **Tuhin**, a Computer Science and Engineering (CSE) student at **Bangladesh University of Engineering and Technology (BUET)**, currently in Level 2, Term 2.  
+I’m **Tuhin**, a Computer Science and Engineering (CSE) student at **Bangladesh University of Engineering and Technology (BUET)**, currently in Level 3, Term 1.  
 
 As a passionate full-stack developer, I love designing, developing, and deploying dynamic web applications. With experience across both front-end and back-end technologies, I enjoy building seamless and efficient user experiences.  
 
 I’m also diving deep into **Machine Learning (ML)** and **Neural Networks**, eager to solve real-world problems with data-driven solutions.  
 
-Check out my [portfolio website](#) _(add your link here)_ to know more about me!  
 
 ---
 
@@ -25,18 +24,29 @@ Check out my [portfolio website](#) _(add your link here)_ to know more about me
 ## 📚 Frameworks & Libraries  
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 ---
 
-## 🗄️ Database  
+## 🗄️ Databases  
 
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 🐳 DevOps & Tools  
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
 
